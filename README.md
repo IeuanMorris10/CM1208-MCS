@@ -1,1 +1,1 @@
-# CM1208
+CM1208 Maths for Computer Science
